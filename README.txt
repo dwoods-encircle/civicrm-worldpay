@@ -6,6 +6,10 @@ This STILL should be considered to be EXPERIMENTAL code which
 should be extensively TESTED before being used in a
 production environment.
 
+TODOS:-
+
+1) Accept future pay transactions from WorldPay!
+
 PLEASE NOTE: A row needs to be added to the
 civicrm_payment_processor_type table in order for CiviCRM
 to register the existence of the WorldPay support. You
