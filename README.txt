@@ -1,9 +1,9 @@
 This is a set of files to allow CiviCRM to use the WorldPay
 payment gateway system. It is based upon code first
-developed by Dougall Winship.
+developed by Dougall Winship, expanded by Ian Macdonald, then further expanded by enCircle.
 
-This should be considered to be experiemental code which
-should be extensively tested before being used in a
+This STILL should be considered to be EXPERIMENTAL code which
+should be extensively TESTED before being used in a
 production environment.
 
 PLEASE NOTE: A row needs to be added to the
@@ -15,9 +15,9 @@ in order for the payment gateway to be listed within the
 CiviCRM interface.
 
 The latest version of this code is currently available at
-https://github.com/idmacdonald/civicrm-worldpay.git
+https://github.com/dwoods-encircle/civicrm-worldpay
 
-Please email imac@gn.apc.org with any questions or contributions.
+Please email support@encircle.co.uk with any questions or contributions.
 
--Ian Macdonald
- GreenNet Ltd (http://www.gn.apc.org)
+-The enCircle Team
+www.encircle.co.uk
